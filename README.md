@@ -1,3 +1,5 @@
+This project is a fork of my other project: https://github.com/wilknisoliveira/electrical-installations-web
+
 Run the following script in the Postgres to allow uuid-ossp extension:
 ```
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
